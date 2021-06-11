@@ -1,0 +1,14 @@
+.blue-background-color{
+    background-color:#34495e;
+}
+.dark-blue-background{
+    background-color:#0f4b73;
+}
+
+a, a:hover{
+    color: white;
+}
+
+.fixedHeight{
+    height: 30px;
+}
